@@ -1,4 +1,4 @@
-rquire 'pry'
+require 'pry'
 
 class Appointment
 
