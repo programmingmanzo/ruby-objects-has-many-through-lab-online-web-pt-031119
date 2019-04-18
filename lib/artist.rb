@@ -32,7 +32,7 @@ class Artist
   def genres
     Song.all.collect do |song|
       song.genre
-      binding.pry 
+      #binding.pry 
     end
   end
 
